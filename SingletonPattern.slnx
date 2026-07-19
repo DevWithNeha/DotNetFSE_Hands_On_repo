@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="factoryMethodPattern/FactoryMethodPattern.csproj" Id="60c3ef35-d4da-4d8f-b905-2c7d30aa9431" />
   <Project Path="SingletonPattern/SingletonPattern.csproj" />
 </Solution>
