@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="AdapterPattern/AdapterPattern.csproj" Id="e9d4a9eb-d925-4403-b63f-e11141bb136b" />
   <Project Path="BuilderPattern/BuilderPattern.csproj" Id="155c806a-4e8b-4f97-90fd-d54387392b8a" />
+  <Project Path="EcommerceSearch/EcommerceSearch.csproj" Id="96a720cf-848a-4ae4-9cd1-62bf02ee5380" />
   <Project Path="factoryMethodPattern/FactoryMethodPattern.csproj" Id="60c3ef35-d4da-4d8f-b905-2c7d30aa9431" />
   <Project Path="SingletonPattern/SingletonPattern.csproj" />
 </Solution>
