@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="BuilderPattern/BuilderPattern.csproj" Id="155c806a-4e8b-4f97-90fd-d54387392b8a" />
   <Project Path="factoryMethodPattern/FactoryMethodPattern.csproj" Id="60c3ef35-d4da-4d8f-b905-2c7d30aa9431" />
   <Project Path="SingletonPattern/SingletonPattern.csproj" />
 </Solution>
